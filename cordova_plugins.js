@@ -13,20 +13,6 @@ module.exports = [
         "id": "cordova-plugin-device.DeviceProxy",
         "pluginId": "cordova-plugin-device",
         "runs": true
-    },
-    {
-        "file": "plugins/cordova-plugin-splashscreen/www/splashscreen.js",
-        "id": "cordova-plugin-splashscreen.SplashScreen",
-        "pluginId": "cordova-plugin-splashscreen",
-        "clobbers": [
-            "navigator.splashscreen"
-        ]
-    },
-    {
-        "file": "plugins/cordova-plugin-splashscreen/src/browser/SplashScreenProxy.js",
-        "id": "cordova-plugin-splashscreen.SplashScreenProxy",
-        "pluginId": "cordova-plugin-splashscreen",
-        "runs": true
     }
 ];
 module.exports.metadata = 
@@ -35,7 +21,6 @@ module.exports.metadata =
     "cordova-plugin-device": "2.0.1",
     "cordova-plugin-ionic-keyboard": "2.0.5",
     "cordova-plugin-ionic-webview": "1.2.0",
-    "cordova-plugin-splashscreen": "5.0.2",
     "cordova-plugin-whitelist": "1.3.3"
 }
 // BOTTOM OF METADATA

@@ -27371,6 +27371,15 @@ li {
   margin-bottom: 10px;
 }
 
+.noResults {
+  text-align: center;
+  font-size: 25px;
+  top: 50%;
+  margin-top: 20px;
+  color: #914C37;
+  font-family: 'Open Sans', sans-serif;
+}
+
 .header {
   background-color: #F0D681 !important;
   border-bottom: 1px solid #5f2519;
@@ -27396,4 +27405,13 @@ li {
 
 .toolbar-title {
   color: #5f2519;
+}
+
+.noResults {
+  text-align: center;
+  font-size: 25px;
+  top: 50%;
+  margin-top: 20px;
+  color: #914C37;
+  font-family: 'Open Sans', sans-serif;
 }
