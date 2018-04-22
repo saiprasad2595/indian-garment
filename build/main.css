@@ -5272,7 +5272,7 @@ ion-alert input {
   border-top-width: 0;
   border-left-width: 0;
   border-style: solid;
-  border-color: #fff;
+  border-color: #F0D681;
   -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
 }
@@ -6425,13 +6425,13 @@ ion-footer {
 ion-app.ios {
   font-family: -apple-system, "Helvetica Neue", "Roboto", sans-serif;
   font-size: 1.4rem;
-  background-color: #fff;
+  background-color: #F0D681;
 }
 
 ion-app.md {
   font-family: "Roboto", "Helvetica Neue", sans-serif;
   font-size: 1.4rem;
-  background-color: #fff;
+  background-color: #F0D681;
 }
 
 ion-app.wp {
@@ -9402,7 +9402,7 @@ ion-app [no-margin] .scroll-content {
 
 .content-ios {
   color: #000;
-  background-color: #fff;
+  background-color: #F0D681;
 }
 
 .content-ios.outer-content {
@@ -9615,7 +9615,7 @@ ion-app.ios [margin-horizontal] .scroll-content {
 
 .content-md {
   color: #000;
-  background-color: #fff;
+  background-color: #F0D681;
 }
 
 .content-md hr {
@@ -16135,7 +16135,7 @@ ion-menu[type=overlay] .show-backdrop {
 }
 
 .ios .menu-inner {
-  background: #fff;
+  background: #F0D681;
 }
 
 .ios .menu-content-reveal {
@@ -16151,7 +16151,7 @@ ion-menu[type=overlay] .show-backdrop {
 }
 
 .md .menu-inner {
-  background: #fff;
+  background: #F0D681;
 }
 
 .md .menu-content-reveal {
@@ -16825,7 +16825,7 @@ ion-popover {
   min-height: 0;
   max-height: 90%;
   color: #000;
-  background: #fff;
+  background: #F0D681;
 }
 
 .popover-ios .popover-arrow {
@@ -16844,7 +16844,7 @@ ion-popover {
   z-index: 10;
   width: 14px;
   height: 14px;
-  background-color: #fff;
+  background-color: #F0D681;
   content: "";
   -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
@@ -16878,7 +16878,7 @@ ion-popover {
   min-height: 0;
   max-height: 90%;
   color: #000;
-  background: #fff;
+  background: #F0D681;
   box-shadow: 0 3px 12px 2px rgba(0, 0, 0, 0.3);
 }
 
@@ -17556,7 +17556,7 @@ ion-range ion-icon {
 
 .range-md .range-knob-min.range-knob-min .range-knob {
   border: 2px solid #bdbdbd;
-  background: #fff;
+  background: #F0D681;
 }
 
 .range-md .range-knob-min.range-knob-min .range-pin,
@@ -17578,7 +17578,7 @@ ion-range ion-icon {
 
 .range-md-primary .range-md .range-knob-min.range-knob-min .range-knob {
   border: 2px solid #bdbdbd;
-  background: #fff;
+  background: #F0D681;
 }
 
 .range-md-primary .range-md .range-knob-min.range-knob-min .range-pin,
@@ -17596,7 +17596,7 @@ ion-range ion-icon {
 
 .range-md-secondary .range-md .range-knob-min.range-knob-min .range-knob {
   border: 2px solid #bdbdbd;
-  background: #fff;
+  background: #F0D681;
 }
 
 .range-md-secondary .range-md .range-knob-min.range-knob-min .range-pin,
@@ -17614,7 +17614,7 @@ ion-range ion-icon {
 
 .range-md-danger .range-md .range-knob-min.range-knob-min .range-knob {
   border: 2px solid #bdbdbd;
-  background: #fff;
+  background: #F0D681;
 }
 
 .range-md-danger .range-md .range-knob-min.range-knob-min .range-pin,
@@ -17632,7 +17632,7 @@ ion-range ion-icon {
 
 .range-md-light .range-md .range-knob-min.range-knob-min .range-knob {
   border: 2px solid #bdbdbd;
-  background: #fff;
+  background: #F0D681;
 }
 
 .range-md-light .range-md .range-knob-min.range-knob-min .range-pin,
@@ -17650,7 +17650,7 @@ ion-range ion-icon {
 
 .range-md-dark .range-md .range-knob-min.range-knob-min .range-knob {
   border: 2px solid #bdbdbd;
-  background: #fff;
+  background: #F0D681;
 }
 
 .range-md-dark .range-md .range-knob-min.range-knob-min .range-pin,
@@ -21178,7 +21178,7 @@ ion-toast {
   position: absolute;
   width: 20px;
   height: 20px;
-  background-color: #fff;
+  background-color: #F0D681;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
   transition-duration: 300ms;
   transition-property: background-color, -webkit-transform;
@@ -21549,7 +21549,7 @@ ion-navbar.toolbar {
 }
 
 .toolbar-background-ios {
-  background: #f8f8f8;
+  background: #F0D681;
 }
 
 .header-ios .toolbar-background-ios,
@@ -23044,7 +23044,7 @@ ion-navbar.toolbar {
 
 .toolbar-background-md {
   border-color: #b2b2b2;
-  background: #f8f8f8;
+  background: #F0D681;
 }
 
 .header-md::after,
@@ -24494,7 +24494,7 @@ ion-navbar.toolbar {
 
 .toolbar-background-wp {
   border-color: #b2b2b2;
-  background: #f8f8f8;
+  background: #F0D681;
 }
 
 .toolbar-content-wp {
@@ -26440,7 +26440,7 @@ ion-navbar.toolbar {
 }
 
 body {
-  font-family: "Arial";
+  font-family: 'Open Sans', sans-serif;
   color: #000;
   text-transform: capitalize;
   background: #fafafa;
@@ -26979,6 +26979,32 @@ button[disabled],
   background: none;
 }
 
+.washContent {
+  background-color: #F0D681 !important;
+}
+
+.menuItem {
+  color: #5f2519;
+  font-size: 18px;
+  text-align: left;
+  margin-left: 5px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.menuItem p {
+  margin: 0px 0px 10px 0px;
+}
+
+.washList {
+  margin-top: 10px;
+}
+
+.menu-inner {
+  border-left: 1px solid;
+  border-top: 1px solid;
+  border-right: 1px solid;
+}
+
 .location {
   float: right;
   font-size: 24px;
@@ -27269,4 +27295,105 @@ button[disabled],
   left: 0;
   text-align: center;
   color: #ffffff;
+}
+
+.inputBg {
+  background-color: #F0D681;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  border-bottom: 0.5px solid #5f2519;
+}
+
+.labelReview {
+  font-size: 16px;
+  margin-left: 8px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.txtarea {
+  width: 90%;
+  background-color: #F0D681;
+  height: 150px;
+  border: 0.5px solid #5f2519;
+  margin-left: 8px;
+  margin-top: 10px;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  border-radius: 2px;
+}
+
+textarea::-webkit-input-placeholder {
+  color: #743526;
+}
+
+textarea:-ms-input-placeholder {
+  color: #743526;
+}
+
+textarea::placeholder {
+  color: #743526;
+}
+
+.text-input::-webkit-input-placeholder {
+  color: #743526;
+}
+
+.text-input:-ms-input-placeholder {
+  color: #743526;
+}
+
+.text-input::placeholder {
+  color: #743526;
+}
+
+.submit {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 21px;
+  margin-top: 20px;
+  padding: 10px;
+  text-align: center;
+  display: block;
+  margin-left: 8px;
+  color: #743526;
+  background-color: #F0D681;
+  border: 0.5px solid #5f2519;
+}
+
+.text-input-ios {
+  margin-left: 8px !important;
+}
+
+li {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  color: #743526;
+  margin-bottom: 10px;
+}
+
+.header {
+  background-color: #F0D681 !important;
+  border-bottom: 1px solid #5f2519;
+}
+
+.scroll-content {
+  background-color: #F0D681;
+}
+
+.menuFloat {
+  background: none;
+  font-size: 16px;
+  color: #5f2519;
+}
+
+li {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  color: #743526;
+  margin-bottom: 10px;
+}
+
+.toolbar-title {
+  color: #5f2519;
 }
