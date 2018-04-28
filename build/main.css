@@ -27380,6 +27380,17 @@ li {
   font-family: 'Open Sans', sans-serif;
 }
 
+.scroll-content {
+  overflow: scroll;
+}
+
+.imgDesc {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
 .header {
   background-color: #F0D681 !important;
   border-bottom: 1px solid #5f2519;
