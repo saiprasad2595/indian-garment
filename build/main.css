@@ -27308,6 +27308,7 @@ button[disabled],
   font-size: 16px;
   margin-left: 8px;
   font-family: 'Open Sans', sans-serif;
+  margin-bottom: 0px;
 }
 
 .txtarea {
@@ -27357,10 +27358,59 @@ textarea::placeholder {
   color: #743526;
   background-color: #F0D681;
   border: 0.5px solid #5f2519;
+  margin-bottom: 12px;
 }
 
 .text-input-ios {
   margin-left: 8px !important;
+}
+
+.reviewCard {
+  margin-right: 8px;
+  background-color: #dec571;
+  border-radius: 5px;
+  padding-left: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 8px;
+  margin-bottom: 8px;
+}
+
+.email {
+  text-transform: lowercase;
+  margin-top: 0px;
+}
+
+.reviewName {
+  margin: 0px 0px 2px 0px;
+  font-weight: bold;
+  color: #5f2519;
+}
+
+.comments {
+  margin-top: 0px;
+}
+
+.reviewTitle {
+  font-size: 18px;
+  font-weight: bold;
+  color: #5f2519;
+  margin: 8px;
+}
+
+.mailIcon {
+  font-size: 45px;
+  text-align: center;
+  color: #5f2519;
+}
+
+.reviewHead {
+  color: #5f2519;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 8px;
+  text-transform: none;
 }
 
 li {
